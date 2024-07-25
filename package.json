@@ -1,0 +1,56 @@
+{
+  "name": "rubysea-vscode",
+  "displayName": "Ruby Sea",
+  "description": "Immerse yourself in the vibrant depths of Ruby Sea, where striking reds and calming blues create a visually stunning coding experience.",
+  "version": "1.0.0",
+  "publisher": "barkerbg001",
+  "icon": "images/logo.png",
+  "author": {
+    "name": "Barkerbg001",
+    "email": "barkerbg001+vscode@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barkerbg001/Ruby-Sea"
+  },
+  "bugs": {
+    "url": "https://github.com/barkerbg001/Ruby-Sea/issues",
+    "email": "barkerbg001+vscode@gmail.com"
+  },
+  "homepage": "https://github.com/barkerbg001/Ruby-Sea/blob/master/README.md",
+  "galleryBanner": {
+    "color": "#171c28",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.18.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Themes",
+    "Dark Theme",
+    "color-theme",
+    "Ruby Sea"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ruby Sea",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rubysea-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.5",
+    "@babel/eslint-parser": "^7.22.5",
+    "@upstatement/eslint-config": "^2.0.0",
+    "@upstatement/prettier-config": "^1.1.0",
+    "eslint": "^8.43.0",
+    "eslint-config-prettier": "^8.8.0",
+    "prettier": "^2.8.8",
+    "vsce": "^2.15.0"
+  }
+}
