@@ -1,8 +1,8 @@
 {
   "name": "rubysea-vscode",
   "displayName": "Ruby Sea",
-  "description": "Immerse yourself in the vibrant depths of Ruby Sea, where striking reds and calming blues create a visually stunning coding experience.",
-  "version": "1.0.0",
+  "description": "A minimal, dark theme for VS Code with vibrant red and blue accents.",
+  "version": "1.0.1",
   "publisher": "barkerbg001",
   "icon": "images/logo.png",
   "author": {
