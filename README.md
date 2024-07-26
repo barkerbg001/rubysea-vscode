@@ -18,17 +18,6 @@
 4. Click **Reload** to reload the editor
 5. Code > Preferences > Color Theme > **Ruby Sea**
 
-
-## Icon Theme
-
-The file icon theme seen in the screenshot above is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) with these settings:
-
-```json
-  "material-icon-theme.folders.color": "#8695b7",
-  "material-icon-theme.folders.theme": "specific",
-  "material-icon-theme.hidesExplorerArrows": true,
-```
-
 ## Color Reference
 
 ### Syntax Colors
@@ -64,8 +53,6 @@ The file icon theme seen in the screenshot above is [Material Icon Theme](https:
 [VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
 
 [VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
-
-Syntax & Workbench colors based on [Ayu Mirage Theme](https://github.com/teabyii/vscode-ayu)
 
 ```bash
 vsce publish patch/minor/major
