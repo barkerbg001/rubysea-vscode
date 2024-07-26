@@ -8,6 +8,18 @@
   A minimal, dark theme for VS Code with vibrant red and blue accents.
 </p>
 
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=Barkerbg001.rubysea-vscode">
+    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/Barkerbg001.rubysea-vscode?color=brightgreen" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=Barkerbg001.rubysea-vscode">
+    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/Barkerbg001.rubysea-vscode" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=Barkerbg001.rubysea-vscode">
+    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/Barkerbg001.rubysea-vscode" />
+  </a>
+</p>
+
 ![demo](https://raw.githubusercontent.com/barkerbg001/rubysea-vscode/master/images/demo.png)
 
 ## Installation via VS Code
