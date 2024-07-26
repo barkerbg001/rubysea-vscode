@@ -24,27 +24,27 @@
 
 |                               Color                                | Usage                                           |
 | :----------------------------------------------------------------: | ----------------------------------------------- |
-| ![#c3a6ff](https://via.placeholder.com/10/c3a6ff.png?text=+) `#c3a6ff` | Keywords, constants, template literals          |
+| ![#ff4c5a](https://via.placeholder.com/10/ff4c5a.png?text=+) `#ff4c5a` | Keywords, constants, template literals          |
 | ![#ffd580](https://via.placeholder.com/10/ffd580.png?text=+) `#ffd580` | Functions, classes, object literal keys         |
-| ![#ffae57](https://via.placeholder.com/10/ffae57.png?text=+) `#ffae57` | Constants, operators                            |
-| ![#bae67e](https://via.placeholder.com/10/bae67e.png?text=+) `#bae67e` | Strings, markdown headings                      |
-| ![#5ccfe6](https://via.placeholder.com/10/5ccfe6.png?text=+) `#5ccfe6` | Special keywords, classes, markdown code blocks |
+| ![#ff6b57](https://via.placeholder.com/10/ff6b57.png?text=+) `#ff6b57` | Constants, operators                            |
+| ![#62c6ff](https://via.placeholder.com/10/62c6ff.png?text=+) `#62c6ff` | Strings, markdown headings                      |
+| ![#3da5f6](https://via.placeholder.com/10/3da5f6.png?text=+) `#3da5f6` | Special keywords, classes, markdown code blocks |
 | ![#a2aabc](https://via.placeholder.com/10/a2aabc.png?text=+) `#a2aabc` | Variables, property names, tags                 |
 
 ### UI Colors
 
 |                               Color                                | Usage                                      |
 | :----------------------------------------------------------------: | ------------------------------------------ |
-| ![#171c28](https://via.placeholder.com/10/171c28.png?text=+) `#171c28` | Workbench background                       |
-| ![#1d2433](https://via.placeholder.com/10/1d2433.png?text=+) `#1d2433` | Editor background                          |
-| ![#2f3b54](https://via.placeholder.com/10/2f3b54.png?text=+) `#2f3b54` | Highlight, widgets, panels                 |
-| ![#6679a4](https://via.placeholder.com/10/6679a4.png?text=+) `#6679a4` | Dividers, subtle UI elements               |
-| ![#8695b7](https://via.placeholder.com/10/8695b7.png?text=+) `#8695b7` | Status bar text, buttons, etc              |
-| ![#d7dce2](https://via.placeholder.com/10/d7dce2.png?text=+) `#d7dce2` | Active text, anything that should be white |
-| ![#ffcc66](https://via.placeholder.com/10/ffcc66.png?text=+) `#ffcc66` | Accent, list tree titles, badges, etc      |
-| ![#bae67e](https://via.placeholder.com/10/bae67e.png?text=+) `#bae67e` | Addition highlights                        |
-| ![#ef6b73](https://via.placeholder.com/10/ef6b73.png?text=+) `#ef6b73` | Deletion highlights, errors, warnings      |
-| ![#5ccfe6](https://via.placeholder.com/10/5ccfe6.png?text=+) `#5ccfe6` | Modified highlights                        |
+| ![#0e1b2a](https://via.placeholder.com/10/0e1b2a.png?text=+) `#0e1b2a` | Workbench background                       |
+| ![#122236](https://via.placeholder.com/10/122236.png?text=+) `#122236` | Editor background                          |
+| ![#214b78](https://via.placeholder.com/10/214b78.png?text=+) `#214b78` | Highlight, widgets, panels                 |
+| ![#4b6691](https://via.placeholder.com/10/4b6691.png?text=+) `#4b6691` | Dividers, subtle UI elements               |
+| ![#6592b3](https://via.placeholder.com/10/6592b3.png?text=+) `#6592b3` | Status bar text, buttons, etc              |
+| ![#c5d3e0](https://via.placeholder.com/10/c5d3e0.png?text=+) `#c5d3e0` | Active text, anything that should be white |
+| ![#ff4c5a](https://via.placeholder.com/10/ff4c5a.png?text=+) `#ff4c5a` | Accent, list tree titles, badges, etc      |
+| ![#62c6ff](https://via.placeholder.com/10/62c6ff.png?text=+) `#62c6ff` | Addition highlights                        |
+| ![#ff2d3b](https://via.placeholder.com/10/ff2d3b.png?text=+) `#ff2d3b` | Deletion highlights, errors, warnings      |
+| ![#3da5f6](https://via.placeholder.com/10/3da5f6.png?text=+) `#3da5f6` | Modified highlights                        |
 
 ## Theming Reference
 
