@@ -5,7 +5,7 @@
   Ruby Sea Theme for VS Code
 </h1>
 <p align="center">
-  A minimal, dark blue theme for VS Code.
+  A minimal, dark theme for VS Code with vibrant red and blue accents.
 </p>
 
 ![demo](https://raw.githubusercontent.com/barkerbg001/rubysea-vscode/master/images/demo.png)
