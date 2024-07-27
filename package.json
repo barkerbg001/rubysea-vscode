@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.24.9",
-    "@babel/eslint-parser": "^7.22.5",
+    "@babel/eslint-parser": "^7.25.0",
     "@upstatement/eslint-config": "^2.0.0",
     "@upstatement/prettier-config": "^1.1.0",
     "eslint": "^8.57.0",
