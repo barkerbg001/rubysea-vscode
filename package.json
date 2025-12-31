@@ -2,7 +2,7 @@
   "name": "rubysea-vscode",
   "displayName": "Ruby Sea",
   "description": "A minimal, dark theme for VS Code with vibrant red and blue accents.",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "publisher": "barkerbg001",
   "icon": "images/logo.png",
   "author": {
@@ -44,13 +44,13 @@
     ]
   },
   "devDependencies": {
-    "@babel/core": "^7.25.2",
-    "@babel/eslint-parser": "^7.25.1",
-    "@upstatement/eslint-config": "^2.0.0",
+    "@babel/core": "^7.28.5",
+    "@babel/eslint-parser": "^7.28.5",
+    "@upstatement/eslint-config": "^3.0.0",
     "@upstatement/prettier-config": "^1.1.0",
-    "eslint": "^8.57.0",
-    "eslint-config-prettier": "^8.10.0",
-    "prettier": "^2.8.8",
-    "vsce": "^2.15.0"
+    "@vscode/vsce": "^3.7.1",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^9.1.2",
+    "prettier": "^3.7.4"
   }
 }
